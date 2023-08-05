@@ -1,0 +1,12 @@
+ {
+     "name": "HelicopterRevival_Translated_BR",
+     "version": "0.1.0",
+     "title": "HelicopterRevival Tradução Brasileira",
+     "author": "LUIS DAS ARTIMANHAS",
+     "factorio_version": "1.1",
+     "dependencies": [
+         "base >= 1.1",
+         "(?) Krastorio2 >= 1.2.7"
+     ],
+     "description": "Adiciona um helicóptero de ataque totalmente animado ao jogo. Ideal para ir de A a B rapidamente, explorar o mapa, construir ilhas e bombardear mordedores do céu. Agora 84% menos bugado! Forked de Kumpu com atualizações além do Factorio 0.17."
+ }

@@ -1,0 +1,11 @@
+{
+    "name": "Fill4Me_Translated_BR",
+    "version": "0.1.0",
+    "title": "Fill4Me Tradução Brasileira",
+    "author": "LUIS DAS ARTIMANHAS",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Fill 4 Me é um mod Factorio para inserir automaticamente combustível e/ou munição em entidades quando você as coloca."
+}

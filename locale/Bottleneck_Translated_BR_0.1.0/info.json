@@ -1,0 +1,10 @@
+{
+  "name": "Bottleneck_Translated_BR",
+  "author": "LUIS DAS ARTIMANHAS",
+  "version": "0.1.0",
+  "factorio_version": "1.1",
+  "title": "Bottleneck",
+  "homepage": "https://forums.factorio.com/viewtopic.php?f=144&t=28817",
+  "description": "Tradução para o mod, Tradução Brasileira",
+  "dependencies": ["base >= 1.0.0"]
+}
