@@ -12,7 +12,7 @@ para que possa ser executado.
 
 1x1-Equipment, 
 
-AAI,
+AAI incui todos os AAI, vehicles,programables,zones
 
 Bottleneck, 
 
@@ -29,3 +29,5 @@ ltnClean,
 ltnCombinator,
 
 LtnManager,
+
+ltnReader
