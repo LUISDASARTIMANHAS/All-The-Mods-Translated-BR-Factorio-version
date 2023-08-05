@@ -8,6 +8,20 @@ para que possa ser executado.
 
 ***
 
-##Suporte Aos Mods
+## Suporte Aos Mods
 
-ltnClean
+1x1-Equipment, 
+
+AAI,
+
+Bottleneck, 
+
+fill4me, 
+
+FNEI, 
+
+helicopterRevival,
+
+LogisticTrainNetwork,
+
+ltnClean,
