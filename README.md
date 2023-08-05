@@ -5,3 +5,9 @@ All-The-Mods-Translated-BR
 Depois de baixar o arquivo renomeie ele para
 All-The-Mods-Translated-BR_0.0.1.zip
 para que possa ser executado.
+
+***
+
+##Suporte Aos Mods
+
+ltnClean
