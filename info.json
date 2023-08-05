@@ -9,7 +9,7 @@
         "flib >= 0.12.6"
     ],
     "description": "Mod que tem como objetivo traduzir todos os mods, inspirado no ATM (mas não afiliado ao mod).",
-    "homepage": "https://github.com/LUISDASARTIMANHAS/all-the-mods-translated-Factorio-version/",
+    "homepage": "https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version",
     "contact": "luisaugustodesouza785@gmail.com",
     "license": "GNU General Public License v3.0",
     "thumbnail": "thumbnail.png"
