@@ -8,6 +8,8 @@ para que possa ser executado.
 
 Coloque ele na pasta dos mods e abra seu jogo.
 
+caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.1 ```
+
 ***
 
 ## Suporte Aos Mods
