@@ -41,3 +41,5 @@ ltnReader,
 Squeak Through,
 
 helmet(desenvolvimento)
+
+even distribution
