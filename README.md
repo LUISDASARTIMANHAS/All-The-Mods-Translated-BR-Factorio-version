@@ -40,6 +40,6 @@ ltnReader,
 
 Squeak Through,
 
-helmet(desenvolvimento)
+helmod(desenvolvimento)
 
 even distribution
