@@ -14,29 +14,26 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 
 ***
 
-## Suporte Aos Mods
+|                                  | Em desinvolvimento   | "Versão Estavel"  |
+|----------------------------------|----------------------|-------------------|
+|                        **Versão**|               0.0.17 |             0.0.16|
+| **Atualização Auto Via factorio**|                  :x: |               :x: |
+|                       **Discord**|   :heavy_check_mark: |               :x: |
+|              **Reporte de Erros**|   :heavy_check_mark: |               :x: |
 
-1x1-Equipment,
-
-AAI incui todos os AAI, vehicles,programables,zones
-
-Bottleneck,
-
-fill4me,
-
-FNEI,
-
-helicopterRevival,
-
-LogisticTrainNetwork,
-
-ltnClean,
-
-ltnCombinator,
-
-LtnManager,
-
-ltnReader,
+|                **Suporte Aos Mods**                |
+| -------------------------------------------------- |
+| 1x1-Equipment                                      |
+|AAI incui todos os AAI, vehicles,programables,zones |
+| Bottleneck                                         |
+| fill4me                                            |
+| FNEI                                               |
+| helicopterRevival                                  |
+| LogisticTrainNetwork                               |       
+| ltnClean                                           |
+| ltnCombinator                                      |
+| LtnManager                                         |
+| ltnReader                                          |
 
 Squeak Through,
 
