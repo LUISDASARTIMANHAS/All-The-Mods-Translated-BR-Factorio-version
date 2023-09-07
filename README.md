@@ -5,12 +5,12 @@ All-The-Mods-Translated-BR
 ## instruções
 
 Depois de baixar o arquivo renomeie ele para
-```All-The-Mods-Translated-BR_0.0.16.zip```
+```All-The-Mods-Translated-BR_0.0.17.zip```
 para que possa ser executado.
 
 Coloque ele na pasta dos mods e abra seu jogo.
 
-caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.16```
+caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.17```
 
 ***
 
