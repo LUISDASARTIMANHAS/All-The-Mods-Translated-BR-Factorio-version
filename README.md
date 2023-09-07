@@ -16,7 +16,7 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 
 |                                  | Em desinvolvimento   | "Versão Estavel"  |
 |----------------------------------|----------------------|-------------------|
-|                        **Versão**|               0.0.17 |             0.0.16|
+|                        **Versão**|               0.0.18 |             0.0.17|
 | **Atualização Auto Via factorio**|                  :x: |               :x: |
 |                       **Discord**|   :heavy_check_mark: |               :x: |
 |              **Reporte de Erros**|   :heavy_check_mark: |               :x: |
@@ -39,3 +39,4 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 | even distribution                                  | ✔️ |
 | long Reach                                         | ✔️ |
 | oarc-mod                                           | ✔️ |
+| material-storage                                   | 🟨 |
