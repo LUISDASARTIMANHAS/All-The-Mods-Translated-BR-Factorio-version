@@ -2,7 +2,7 @@
     "name": "All-The-Mods-Translated-BR",
     "title": "All The Mods Tradução Brasileira",
     "author": "Luis Das Artimanhas",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.70",
