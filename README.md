@@ -17,9 +17,9 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 |                                  | Em desinvolvimento   | "Versão Estavel"  |
 |----------------------------------|----------------------|-------------------|
 |                        **Versão**|               0.0.18 |             0.0.17|
-| **Atualização Auto Via factorio**|                  :x: |               :x: |
-|                       **Discord**|   :heavy_check_mark: |               :x: |
-|              **Reporte de Erros**|   :heavy_check_mark: |               :x: |
+| **Atualização Auto Via factorio**|:heavy_check_mark:    |:heavy_check_mark: |
+|                       **Discord**|:heavy_check_mark:    |               :x: |
+|              **Reporte de Erros**|:heavy_check_mark:    |               :x: |
 
 |                **Suporte Aos Mods**                |     |
 | -------------------------------------------------- |-----|
