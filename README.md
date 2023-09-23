@@ -1,6 +1,6 @@
 # All-The-Mods-Translated-BR-Factorio-version
 
-<img src="https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version/blob/main/thumbnail.png" height="100px" />
+<img src="https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version/blob/main/thumbnail.png"  height="100px" />
 
 All-The-Mods-Translated-BR
 
