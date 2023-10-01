@@ -7,18 +7,18 @@ All-The-Mods-Translated-BR
 ## instruções
 
 Depois de baixar o arquivo renomeie ele para
-```All-The-Mods-Translated-BR_0.0.24.zip```
+```All-The-Mods-Translated-BR_0.0.25.zip```
 para que possa ser executado.
 
 Coloque ele na pasta dos mods e abra seu jogo.
 
-caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.24```
+caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.25```
 
 ***
 
 |                                  | Em desenvolvimento   | "Versão Estavel"  |
 |----------------------------------|----------------------|-------------------|
-|                        **Versão**|               0.0.25 |             0.0.24|
+|                        **Versão**|               0.0.26 |             0.0.25|
 | **Atualização Auto Via factorio**|:heavy_check_mark:    |:heavy_check_mark: |
 |                       **Discord**|:heavy_check_mark:    |               :x: |
 |              **Reporte de Erros**|:heavy_check_mark:    |               :x: |
