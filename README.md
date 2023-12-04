@@ -7,18 +7,18 @@ All-The-Mods-Translated-BR
 ## instruções
 
 Depois de baixar o arquivo renomeie ele para
-```All-The-Mods-Translated-BR_0.0.29.zip```
+```All-The-Mods-Translated-BR_0.0.30.zip```
 para que possa ser executado.
 
 Coloque ele na pasta dos mods e abra seu jogo.
 
-caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.28```
+caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Translated-BR_0.0.30```
 
 ***
 
 |                                  | Em desenvolvimento   | "Versão Estavel"  |
 |----------------------------------|----------------------|-------------------|
-|                        **Versão**|               0.0.30 |             0.0.28|
+|                        **Versão**|               0.0.31 |             0.0.30|
 | **Atualização Auto Via factorio**|:heavy_check_mark:    |:heavy_check_mark: |
 |                       **Discord**|:heavy_check_mark:    |               :x: |
 |              **Reporte de Erros**|:heavy_check_mark:    |               :x: |
@@ -26,7 +26,7 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 |                **Suporte Aos Mods**                |     |
 | -------------------------------------------------- |-----|
 | 1x1-Equipment                                      | ✔️ |
-|AAI incui todos os AAI, vehicles,programables,zones | ✔️ |
+|AAI incui todos os AAI, vehicles,programables,zones |  ❔ |
 | Bottleneck                                         | ✔️ |
 | fill4me                                            | ✔️ |
 | FNEI                                               | ✔️ |

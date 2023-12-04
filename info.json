@@ -6,7 +6,8 @@
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.80",
-        "flib >= 0.12.9"
+        "flib >= 0.12.9",
+        "stdlib >= 1.4.8"
     ],
     "description": "Mod que tem como objetivo traduzir todos os mods, inspirado no ATM (mas não afiliado ao mod).",
     "homepage": "https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version",
