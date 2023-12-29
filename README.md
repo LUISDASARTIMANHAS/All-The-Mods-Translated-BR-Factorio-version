@@ -48,3 +48,9 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 | tycoon                                             | ✔️ |
 | DyWorld-Dynamics 2,DyCore                          | 🟨 |
 | Industrial Revolution 3                            | ❌ |
+
+|    **Legenda**     |     |
+| ------------------ |-----|
+| Concluido          | ✔️ |
+| Em Desenvolvimento | 🟨 |
+| Parado, Impossível | ❌ |
