@@ -46,4 +46,5 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 | simply-greenhouse                                  | ✔️ |
 | simply-bees                                        | ✔️ |
 | tycoon                                             | ✔️ |
+| DyWorld-Dynamics 2,DyCore                          | 🟨 |
 | Industrial Revolution 3                            | ❌ |
