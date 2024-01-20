@@ -2,12 +2,17 @@
     "name": "All-The-Mods-Translated-BR",
     "title": "All The Mods Tradução Brasileira",
     "author": "Luis Das Artimanhas",
-    "version": "0.0.31",
+    "version": "0.0.32",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.87",
         "flib >= 0.13.0",
-        "stdlib >= 1.4.8"
+        "stdlib >= 1.4.8",
+        "?LTN_Language_Pack",
+        "?All-The-Mods-Translated-BR-AAI-Pack",
+        "?All-The-Mods-Translated-BR-SE-Pack",
+        "?All-The-Mods-Translated-BR-DyWorld-Pack",
+        "?All-The-Mods-Translated-BR-LTN-Pack"
     ],
     "description": "Mod que tem como objetivo traduzir todos os mods, inspirado no ATM (mas não afiliado ao mod).",
     "homepage": "https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version",
