@@ -11,7 +11,7 @@
         "?LTN_Language_Pack",
         "?All-The-Mods-Translated-BR-AAI-Pack",
         "?All-The-Mods-Translated-BR-SE-Pack",
-        "?All-The-Mods-Translated-BR-DyWorld-Pack",
+        "!All-The-Mods-Translated-BR-DyWorld-Pack",
         "?All-The-Mods-Translated-BR-LTN-Pack"
     ],
     "description": "Mod que tem como objetivo traduzir todos os mods, inspirado no ATM (mas não afiliado ao mod).",
