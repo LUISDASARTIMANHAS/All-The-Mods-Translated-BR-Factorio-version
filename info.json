@@ -2,15 +2,14 @@
     "name": "All-The-Mods-Translated-BR-LTN-Pack",
     "title": "All The Mods Tradução Brasileira LTN PACK",
     "author": "Luis Das Artimanhas",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.87",
         "flib >= 0.13.0",
         "stdlib >= 1.4.8",
         "LogisticTrainNetwork >= 1.18.0",
-        "!LTN_Language_Pack",
-        "All-The-Mods-Translated-BR"
+        "!LTN_Language_Pack"
     ],
     "description": "Mod que tem como objetivo traduzir todos os mods, inspirado no ATM (mas não afiliado ao mod).",
     "homepage": "https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version",
