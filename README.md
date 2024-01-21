@@ -25,9 +25,6 @@ caso ele ja tenha a extensão ```.zip``` apenas renomeie para ```All-The-Mods-Tr
 
 |                **Suporte Aos Mods**                |     |
 | -------------------------------------------------- |-----|
-| 1x1-Equipment                                      | ✔️ |
-|AAI incui todos os AAI, vehicles,programables,zones |  ❔ |
-| Bottleneck                                         | ✔️ |
 | DyWorld-Dynamics 2                                 | 🟨 |
 | DyWorld-Dynamics                                   | 🟨 |
 | DyCore                                             | 🟨 |
