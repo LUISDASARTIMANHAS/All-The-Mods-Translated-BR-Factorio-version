@@ -2,7 +2,7 @@
     "name": "All-The-Mods-Translated-BR",
     "title": "All The Mods Tradução Brasileira",
     "author": "Luis Das Artimanhas",
-    "version": "0.0.33",
+    "version": "0.0.34",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.100",
@@ -23,13 +23,16 @@
         "?helmod",
         "?Squeak Through",
         "?material-storage",
-        "(?)IndustrialRevolution3",
+        "?IndustrialRevolution3",
         "?all-the-overhaul-modpack",
         "?DyWorld-Dynamics-2",
         "?oarc-mod",
         "?even-distribution",
         "?far-reach",
-        "?HelicopterRevival"
+        "?HelicopterRevival",
+        "?autodrive",
+        "?cargo-ships",
+        "?AutoDeconstruct"
     ],
     "description": "Mod que tem como objetivo traduzir todos os mods, inspirado no ATM (mas não afiliado ao mod).",
     "homepage": "https://github.com/LUISDASARTIMANHAS/All-The-Mods-Translated-BR-Factorio-version",

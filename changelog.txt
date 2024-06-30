@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.34
+Date: 30/06/2024
+  Changes:
+    - add changelog file.
+    - add automatic system uoload mod anc compact file
+    - translation add order: autodrive, AutoDeconstruct, cargo-ships
+---------------------------------------------------------------------------------------------------
+Version: 0.0.33
+Date: 04/05/2024
+  Changes:
+    - updated helmod translations.
