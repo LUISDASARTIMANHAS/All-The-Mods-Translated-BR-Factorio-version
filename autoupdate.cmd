@@ -10,13 +10,23 @@ if exist .env (
 
 :: Verifica se a chave de API foi carregada
 if "%API_KEY%"=="" (
-    echo Erro: A chave de API nao foi carregada do arquivo .env.
+    echo Erro: A chave de API não foi carregada do arquivo .env.
+    exit /b 1
+)
+
+:: Leitura da versão a partir do arquivo info.json
+for /f "tokens=2 delims=:," %%a in ('type info.json ^| findstr /C:"\"version\""') do (
+    set MOD_VERSION=%%~a
+)
+
+:: Verifica se a versão foi obtida corretamente
+if "%MOD_VERSION%"=="" (
+    echo Erro: Falha ao obter a versão do arquivo info.json.
     exit /b 1
 )
 
 :: Configurações do script
 set MOD_NAME="All-The-Mods-Translated-BR"
-set MOD_VERSION=0.0.34
 set ZIP_FILE=%MOD_NAME%_%MOD_VERSION%.zip
 
 :: Remove qualquer arquivo ZIP anterior com o mesmo nome
