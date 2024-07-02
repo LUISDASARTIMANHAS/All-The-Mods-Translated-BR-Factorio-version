@@ -27,6 +27,7 @@ if "%MOD_VERSION%"=="" (
 
 :: Configurações do script
 set MOD_NAME="All-The-Mods-Translated-BR"
+set AUTO_SEND=False 
 set ZIP_FILE=%MOD_NAME%_%MOD_VERSION%.zip
 
 :: Remove qualquer arquivo ZIP anterior com o mesmo nome
@@ -44,6 +45,14 @@ if not exist "%ZIP_FILE%" (
     exit /b 1
 )
 
+:: Remover espaços em branco ao redor de AUTO_SEND
+set AUTO_SEND=%AUTO_SEND: =%
+
+if /i "%AUTO_SEND%"=="False" (
+    echo Compactacao terminada. Auto publicar desativado. Saindo...
+    pause
+    exit /b 0
+)
 :: Publica o mod no Factorio
 echo Publicando o mod no Factorio...
 curl -X POST ^
