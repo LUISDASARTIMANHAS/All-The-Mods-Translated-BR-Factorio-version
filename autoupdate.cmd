@@ -27,7 +27,8 @@ if "%MOD_VERSION%"=="" (
 
 :: Configurações do script
 set MOD_NAME="All-The-Mods-Translated-BR"
-set AUTO_SEND=False 
+set STEAM_FILE="D:\SteamLibrary\steamapps\common\Factorio\mods"
+set AUTO_SEND=False
 set ZIP_FILE=%MOD_NAME%_%MOD_VERSION%.zip
 
 :: Remove qualquer arquivo ZIP anterior com o mesmo nome
@@ -38,6 +39,7 @@ if exist "%ZIP_FILE%" (
 :: Compacta todos os arquivos na pasta atual em um arquivo ZIP, excluindo .env e outros arquivos indesejados
 echo Compactando o mod em %ZIP_FILE%...
 tar -a -c -f "%ZIP_FILE%" --exclude=".env" --exclude="*.cmd" --exclude=".gitignore" --exclude="*.zip" --exclude="*.git" .
+tar -a -c -f "%ZIP_FILE%" --exclude=".env" --exclude="*.cmd" --exclude=".gitignore" --exclude="*.zip" --exclude="*.git" %STEAM_FILE%
 
 :: Verifica se o arquivo ZIP foi criado com sucesso
 if not exist "%ZIP_FILE%" (
