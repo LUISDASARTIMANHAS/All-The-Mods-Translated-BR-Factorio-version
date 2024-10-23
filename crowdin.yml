@@ -1,0 +1,3 @@
+files:
+  - source: '*.cfg'
+    translation: '%original_file_name%'

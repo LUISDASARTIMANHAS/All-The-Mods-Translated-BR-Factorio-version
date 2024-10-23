@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.36
+Date: 06/07/2024
+  Changes:
+    - full autodrive translation
+    - full AutoDeconstruct translation 
+    - full cargo-ships translation
+    - tradução completa do autodrive.
+    - tradução completa do AutoDeconstruct.
+    - tradução completa do cargo-ships.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.35
+Date: 01/07/2024
+  Changes:
+    - added semi autodrive translation
+    - adicionado semi tradução do autodrive.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.34
+Date: - file.
+    - add automatic system upload mod anc compact file
+    - translation add order: autodrive, AutoDeconstruct, cargo-ships
+---------------------------------------------------------------------------------------------------
+Version: 0.0.33
+Date: 04/05/2024
+  Changes:
+    - updated helmod translations.
