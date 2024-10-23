@@ -91,21 +91,4 @@ if errorlevel 1 (
 
 echo Mod publicado com sucesso!
 
-:: Inicializa o repositório Git (se necessário)
-if not exist ".git" (
-    git init
-    git remote add origin <URL_DO_SEU_REPOSITORIO_GITHUB>
-)
-
-:: Verifica o status dos arquivos
-git status
-
-:: Adiciona todos os arquivos alterados
-git add .
-
-:: Cria um commit com uma mensagem baseada no nome e versão do mod
-git commit -m "Automated commit for %MOD_NAME% version %MOD_VERSION%"
-
-:: Envia os arquivos para o repositório remoto
-git push origin main
 exit /b 0
