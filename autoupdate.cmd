@@ -82,7 +82,7 @@ git add .
 git commit -m "Automated commit for %MOD_NAME% version %MOD_VERSION%"
 
 :: Envia os arquivos para o repositório remoto na branch especificada
-git push origin All-The-Mods-Translated-BR
+git push origin main
 
 :: Remover espaços em branco ao redor de AUTO_SEND
 set "AUTO_SEND=%AUTO_SEND: =%"
