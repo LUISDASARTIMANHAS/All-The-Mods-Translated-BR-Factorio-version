@@ -1,0 +1,139 @@
+[entity-name]
+boat=Barco
+indep-boat=Barco
+boat_engine=Motor de barco
+cargo_ship=Navio cargueiro
+straight-water-way=hidrovia reta
+curved-water-way=hidrovia curvada
+port=Porto marítimo
+buoy=Bóia de sinalização
+chain_buoy=Bóia de sinalização em cadeia
+cargo_ship_engine=Motor de navio
+oil_tanker=Navio petroleiro
+oil_rig=Plataforma de petróleo
+or_power=Gerador de vapor para plataforma de petróleo
+or_power_electric=Gerador a bordo da plataforma de petróleo
+or_radar=Radar de plataforma de petróleo
+deep_oil=Petróleo marítimo 
+floating-electric-pole=Poste elétrico flutuante
+bridge_base=Elevação da ponte ferroviária
+bridge_north_clickable=__ENTITY__bridge_base__
+bridge_east_clickable=__ENTITY__bridge_base__
+bridge_south_clickable=__ENTITY__bridge_base__
+bridge_west_clickable=__ENTITY__bridge_base__
+bridge_crossing=Ponte __ITEM__waterway__
+invisible_rail=Ponte __ITEM__rail__
+
+[entity-description]
+boat=Barco pequeno e rápido com pequeno espaço de inventário. Pode ser colocado em hidrovias ou como veículo independente.
+cargo_ship=Grande navio capaz de transportar uma grande quantidade de recursos.
+oil_tanker=Grande navio capaz de transportar grande quantidade de fluidos.
+pump=Também pode ser colocado na água para carregar e descarregar petroleiros.
+oil_rig=Plataforma massiva de extração de petróleo marítimo. Inclui geração de energia a bordo (a menos que desativada) e rede elétrica, abastecendo a própria plataforma de petróleo, bem como as bombas conectadas com energia.
+deep_oil=Grande depósito de petróleo em águas profundas. Extraia com a plataforma de petróleo.
+port=Destinos para navios automatizados.
+buoy=Divide o sistema hidroviário em blocos, permitindo que vários navios operem na mesma rede.
+chain_buoy=Lê os próximos sinais no caminho para permitir melhor controle dos navios.
+bridge_north_clickable=Ponte ferroviária automatizada, que se abre para permitir a passagem de navios. Requer bóias e sinais adicionais próximos para funcionar corretamente.
+
+[description-template]
+bridge_base=__1__ Local ao longo de um trecho reto de hidrovia existente.
+
+[item-name]
+waterway=hidrovia
+
+[item-description]
+waterway=Caminho sobre a água para os navios seguirem.
+
+[technology-name]
+cargo_ships=__ENTITY__cargo_ship__s
+oversea-energy-distribution=Distribuição de energia no mar
+water_transport=Transporte hidroviário
+automated_water_transport=Transporte hidroviário automatizado
+water_transport_signals=Sinalizações de transporte hidroviário
+tank_ship=__ENTITY__oil_tanker__s
+deep_sea_oil_extraction=Extração de petróleo em alto mar
+automated_bridges=Pontes de trem
+
+[technology-description]
+cargo_ships=Transporte em larga escala sobre água.
+oversea-energy-distribution=Oferece os meios para conectar ilhas à sua rede elétrica principal.
+water_transport=Dá meios para atravessar corpos de água.
+automated_water_transport=Permite a criação de hidrovias, que são obtidas através do botão de atalho ou com __CONTROL__give-waterway__. Os portos podem ser construídos em hidrovias para estabelecer rotas automatizadas de navios.
+water_transport_signals=Permite coordenar vários navios dentro da mesma rede hidroviária.
+tank_ship=Capacidade de transportar fluidos sobre a água. __ENTITY__oil_tanker__s podem ser enchidos e esvaziados por bombas.
+deep_sea_oil_extraction=__ENTITY__deep_oil__ extração
+automated_bridges=Ativa pontes, que permitem que trens e hidrovias se cruzem.
+
+[mod-setting-name]
+fuel_modifier=Capacidade de combustível do navio
+speed_modifier=Velocidade de movimento do navio
+deep_oil=Ativar petróleo marítimo e plataforma petrolífera
+oil_richness=Bônus de riqueza para petróleo marítimo em comparação com petróleo bruto
+no_oil_on_land=Não há petróleo bruto em terra
+no_shallow_oil=Não há petróleo marítimo em águas rasas
+waterway_reach_increase=Aumento de alcance enquanto segura construções marítimas
+no_oil_for_oil_rig=__ENTITY__oil_rig__s sem ciência química
+use_dark_blue_waterways=Usar Hidrovias mais escuras
+oil_rig_capacity=__ENTITY__oil_rig__ capacidade x1000
+oil_rigs_require_external_power=Gerador a bordo da plataforma de petróleo
+tanker_capacity=__ENTITY__oil_tanker__ capacidade x1000
+no_catching_fish=Desativar pesca do insersor
+prevent_waterway_rail_connections=Impedir que hidrovias se conectem a outros tipos de trilhos
+
+[mod-setting-description]
+fuel_modifier=A capacidade padrão de combustível do navio é multiplicada por este valor.
+waterway_reach_increase=Aumenta o alcance do jogador quando estiver manipulando estruturas aquáticas (vias fluviais, boias, portos, etc.). Allows to place and deconstruct waterways from far away. Defina o valor como '0' para desativar o aumento do alcance.
+oil_richness=Use to make __ENTITY__deep_oil__ more attractive than land deposits.
+no_oil_for_oil_rig=Retira o pré-requisito de ciência química para construir torres de perfuração de petróleo. Ative se estiver jogando sem depósitos de petróleo terrestres.
+no_shallow_oil=Habilitar para restaurar o comportamento original, bloqueando a exploração de petróleo em águas rasas.
+use_dark_blue_waterways= Muda as vias fluviais para um tom de azul mais escuro, melhorando a visibilidade.
+speed_modifier=Multiply ship and boat movement speeds by this value. Aviso: Navios muito rápidos podem parecer estranhos.
+oil_rig_capacity=Armazenamento interno da plataforma de perfuração de petróleo.
+oil_rigs_require_external_power=[font=default-bold]Small:[/font] Torres de petróleo possuem um pequeno gerador interno que pode ser complementado pela rede elétrica quando usar módulos (este é o modo normal).\n[font=default-bold]None:[/font] Torres de petróleo só funcionam quando conectadas à rede elétrica.\n[font=default-bold]Infinite:[/font] Torres de petróleo não podem se conectar à rede elétrica e sempre funcionam com potência máxima.
+tanker_capacity=Capacidade de armazenamento do navio tanque.
+no_catching_fish=Stops inserters from catching fish if placed at the water edge.
+no_oil_on_land=Removes all oil deposits on land. Sem efeito se a extração de petróleo em águas profundas estiver desabilitada.
+prevent_waterway_rail_connections=Se ativado, impede a conexão de vias fluviais com trilhos de outros tipos.
+
+[string-mod-setting]
+oil_richness-very-poor=Extremamente escasso
+oil_richness-poor=Ruim
+oil_richness-regular=Regular
+oil_richness-good=Bom
+oil_richness-very-good=Reservas extremamente abundantes
+
+oil_rigs_require_external_power-enabled=None
+oil_rigs_require_external_power-only-when-moduled=Small
+oil_rigs_require_external_power-disabled=Infinite
+
+[cargo-ship-message]
+error-place-on-water=Error: __1__ can only be placed on water.
+error-connect-rails=Error: Cannot connect __1__ to __2__.
+place-on-waterway=Placing __1__ on waterway.
+place-independent=Placing __1__ as freely drivable.
+error-place-on-waterway=Error: Could not place __1__ on waterway.
+error-unlinked-engine=Error: Deleting __1__ found without a linked ship.
+error-train-on-waterway=Error: __1__ cannot be placed on waterway!
+error-ship-no-space=Error: __1__ needs to be placed on straight waterway with sufficient space to all sides!
+error-canceled=Error: Cannot place __1__ here, item destroyed.
+error-bridge-busy=Error: Make sure no trains and ships are currently crossing before deleting the __ENTITY__bridge_base__.
+regenerate-oil-help=/regenerate-oil-help <surface name or index> - Regenera petróleo bruto e depósitos de petróleo offshore na superfície especificada com as configurações atuais do mod.\nSe nenhuma superfície for especificada, regenera petróleo em todas as superfícies.\nSe o RSO estiver instalado, só é possível regenerar todas as superfícies de uma vez.
+error-must-be-admin=Erro: Você precisa ser administrador para usar este comando.
+regenerate-started=__1__ started regenerating oil deposits on __2__...
+regenerate-finished=Finished regenerating oil deposits and corrected __1__ / __2__ __plural_for_parameter_2_{1=surface|rest=surfaces}__.
+all-surfaces=all surfaces
+regenerate-stats=Regenerated oil on __1__: __2__ __ENTITY__deep_oil__ removed, __3__ __ENTITY__crude-oil__ removed or converted to __ENTITY__deep_oil__.
+regenerate-none=Regenerated oil on __1__: No changes made.
+error-rso-regenerate-surface=Cannot regenerate single surface with RSO installed. Use "/regenerate-oil" para regenerar todos os recursos em todas as superfícies.
+
+
+[cargo-ship-gui]
+oil-rig-storage=__ENTITY__oil_rig__ storage
+oil-rig-progress=__1__k of __2__k
+
+[tips-and-tricks-item-name]
+cargo-ships=Cargo Ships
+
+[tips-and-tricks-item-description]
+cargo-ships=Ships are placed on [entity=straight-water-way]. Os cursos d'água são obtidos clicando no botão de curso d'água na barra de atalhos ou pressionando __CONTROL__give-waterway__.\nO[item=boat] pode ser colocado em cursos d'água ou independentemente, permitindo que seja dirigido como um carro.\n\nCada navio-tanque pode ser carregado com até três [entity=pump]. Segure uma bomba no inventário para visualizar as opções de posicionamento válido
